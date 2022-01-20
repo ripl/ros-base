@@ -1,0 +1,8 @@
+# LIST YOUR APT PACKAGES HERE
+
+# ROS
+ros-noetic-ros-base
+ros-noetic-tf
+
+# libzmq
+libzmq3-dev

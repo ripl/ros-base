@@ -1,0 +1,9 @@
+{
+    "description": "Base ROS CPK project",
+    "maintainer": "ripl",
+    "name": "ros-base",
+    "organization": "ripl",
+    "schema": "1.0",
+    "template": null,
+    "version": "0.0.0"
+}
